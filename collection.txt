@@ -8,3 +8,6 @@ The collection framework. ...
 List: The List interface extends the Collection interface. ...
 
 ArrayList: ArrayList is a class that implements the List interface.
+
+
+add element
