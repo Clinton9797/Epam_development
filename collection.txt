@@ -1,0 +1,10 @@
+Iterable: The iterable interface is the root interface for all 
+collection classes. ...
+
+Collection: It is the interface that is implemented by all the classes in 
+
+The collection framework. ...
+
+List: The List interface extends the Collection interface. ...
+
+ArrayList: ArrayList is a class that implements the List interface.
